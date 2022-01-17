@@ -1,0 +1,15 @@
+.userphoto {
+  border-radius: 50%;
+  width: 10%;
+}
+body {
+  background-color: #f6fff8;
+}
+.title {
+  color: #354f52;
+}
+.username,
+.address {
+  color: #354f52;
+  margin-left: 80px;
+}
